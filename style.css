@@ -1,6 +1,7 @@
 body {
     margin:0;
     padding-top:800px;
+    text-align:center;
 }
 .profile {
     width:175px;
@@ -83,4 +84,16 @@ p {
 }
 .links:hover {
     background-color:darkred;
+}
+#bio {
+    background: linear-gradient(#ebc334 80%, #e30918 20%);
+}
+#career {
+    background: linear-gradient(#ebc334 80%, #e30918 20%);
+}
+#interviews {
+    background: linear-gradient(#ebc334 80%, #e30918 20%);
+}
+#publications {
+    background: linear-gradient(#ebc334 80%, #e30918 20%);
 }
